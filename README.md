@@ -202,9 +202,6 @@ The dashboard features:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
@@ -213,3 +210,4 @@ Built with ❤️ for data-driven business decisions
 ---
 
 **Note**: This dashboard is designed for business analytics and can be easily customized for your specific use case. The sample data generator creates realistic sales data for demonstration purposes.
+
